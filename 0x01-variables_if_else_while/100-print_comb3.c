@@ -30,7 +30,7 @@ if (nums == '5' && nums1 < '6')
 continue;
 if (nums == '6' && nums1 < '7')
 continue;
-if (nums == '7' && nums1 < '9')
+if (nums == '7' && nums1 < '8')
 continue;
 putchar(nums);
 putchar(nums1);
