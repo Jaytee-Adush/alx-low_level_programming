@@ -32,6 +32,8 @@ if (nums == '6' && nums1 < '7')
 continue;
 if (nums == '7' && nums1 < '8')
 continue;
+if (nums == '8' && nums1 < '9')
+continue;
 putchar(nums);
 putchar(nums1);
 if (nums == '8' && nums1 == '9')
