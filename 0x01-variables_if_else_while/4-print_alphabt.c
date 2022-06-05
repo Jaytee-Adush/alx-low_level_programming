@@ -11,9 +11,8 @@ int main(void)
 {
 char alphabet;
 
-for (alphabet = 'a'; alpha <= 'z'; alpha++)
-if (alphabet != 'e' && alpha != 'q')
+for (alphabet = 'a'; alphabet <= 'z'; alpha++)
+if (alphabet != 'e' && alphabet != 'q')
 putchar(alphabet);
 putchar('\n');
-return (0);
-}
+return (0);}
